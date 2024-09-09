@@ -53,3 +53,7 @@ npm run dev
 # Run frontend server
 cd ../frontend
 npm start
+
+login details:
+1. Admin: email = admin@gmail.com   passsword = admin
+2. User:  email = ishti@gmail.com   password  = ishti
